@@ -1,2 +1,2 @@
 # Minesweeper
-A basic minesweeper I did in Python for fun.
+It includes three difficulties, will you be able to overcome them all?
